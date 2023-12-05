@@ -2,7 +2,6 @@
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning coding for Robotics
 - 💞️ I’m looking to collaborate on Robotics
-- 📫 How to reach me: idk
 
 <!---
 4Robotics/4Robotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
